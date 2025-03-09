@@ -1,5 +1,5 @@
 {
-  "name": "@wma/eslint-config",
+  "name": "@wmabr/eslint-config",
   "description": "ESLint configuration used by WMA for ESLint 9.",
   "version": "1.0.0",
   "license": "MIT",

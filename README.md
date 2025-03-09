@@ -5,13 +5,13 @@
 ### 1. Install dependencies:
 
 ```sh
-npm i -D eslint @wma/eslint-config
+npm i -D eslint @wmabr/eslint-config
 ```
 
 ### 2. Inside `eslint.config.js`:
 
 ```
-import config from "@wma/eslint-config";
+import config from "@wmabr/eslint-config";
 
 export default [
     ...config
