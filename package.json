@@ -1,0 +1,31 @@
+{
+  "name": "@wma/eslint-config",
+  "description": "ESLint configuration used by WMA for ESLint 9.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "WMA Personalizados",
+    "email": "ti@wmapersonalizados.com.br",
+    "url": "https://www.wmapersonalizados.com"
+  },
+  "repository": {
+    "url": "wmabr/eslint-config-wma"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "wma",
+    "wma personalizados",
+    "node"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^9.22.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@eslint/js": "^9.8.0",
+    "typescript-eslint": "^8.26.0"
+  }
+}
