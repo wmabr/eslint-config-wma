@@ -18,6 +18,12 @@ export default [
 ];
 ```
 
+## Docs
+
+- [ESLint deprecation of formatting rules](https://eslint.org/blog/2023/10/deprecating-formatting-rules/);
+- [Stylistic ESLint](https://eslint.style/packages/default);
+- [Prettier Plugin](https://github.com/prettier/eslint-plugin-prettier).
+
 ## License
 
 MIT by [WMA Personalizados](https://www.wmapersonalizados.com)
