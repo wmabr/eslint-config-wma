@@ -1,7 +1,6 @@
 import pluginJs from "@eslint/js";
 import tseslint from "typescript-eslint";
 import stylistic from '@stylistic/eslint-plugin'
-import eslintPluginPrettierRecommended from 'eslint-plugin-prettier/recommended'
 
 export default [
   pluginJs.configs.recommended,
@@ -67,5 +66,4 @@ export default [
       yoda: 'error',
     },
   },
-  eslintPluginPrettierRecommended,
 ];
